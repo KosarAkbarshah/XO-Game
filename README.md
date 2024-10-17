@@ -1,4 +1,4 @@
-# XO-Game ✖️⭕
+# Tic-Tac-Toe XO-Game ✖️⭕
 A simple, interactive, and Responsive Tic-Tac-Toe game built with HTML, CSS, and JavaScript.
 
 ## How It Works
