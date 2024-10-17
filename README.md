@@ -23,12 +23,10 @@ mobile screen:
 
 
 
-
-- 💡[Demo Project](https://kosarakbarshah.github.io/XO-Game/)
+-💡[Demo Project](https://kosarakbarshah.github.io/XO-Game/)
 
 -💗Developed by Kosar Akbarshah
-
-- 🕰️Created - 2024-10-17
+-🕰️Created - 2024-10-17
 
 -🪄 Technologies Used - HTML5, mediaquery, CSS3, javaScript
 
